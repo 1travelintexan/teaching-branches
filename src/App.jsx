@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Ragnars Page</h1>
+      <h1>Tomás & Lupe's Page</h1>
     </>
   );
 }
